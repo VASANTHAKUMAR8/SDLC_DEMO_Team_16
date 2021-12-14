@@ -82,7 +82,7 @@ void main()
                   printf("Customer ID is:- %d\n", customer[i].acct_no);
                   printf("Customer name:- %s\n", customer[i].name);
                   printf("Customer mobile number:- %ld\n", customer[i].mobile_no);
-                  printf("customer city name:- %s\n", customer[i].city);
+                  printf("Customer city name:- %s\n", customer[i].city);
                   printf("Account balance:- %.2f\n\n", customer[i].balance);
               }
           }
