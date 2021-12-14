@@ -12,8 +12,8 @@ char ch, decision;
 void main()
 {
 
-	    printf("<<<-----------------*-------------------->>>\n1: Add New Customer Wallet.\n");
-	    printf("2: Search Existing Customer Account.\n");
+	printf("<<<-----------------*-------------------->>>\n1: Add New Customer Wallet.\n");
+	printf("2: Search Existing Customer Account.\n");
         printf("3: Pay the Bills.\n");
         printf("4: Print All Customers Details.\n");
         printf("5: Top-Up Balance.\n");
@@ -55,7 +55,7 @@ void main()
                 main();
                 break;
             case '6':
-                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY VAMSI------->>>>>");
+                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY GROUP 16------->>>>>");
                 exit(0);
                 break;
         }
