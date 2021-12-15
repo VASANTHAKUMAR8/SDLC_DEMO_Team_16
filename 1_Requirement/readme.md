@@ -32,9 +32,18 @@ It's a advanced parking management system. This project is divided into 4 differ
 ## **Parking System**
 This system is purely a part of automation sector. In this mechanism we can operate a parking system without any human surveillance. By using some essential componets we can automate our parking area.
 
+**Motivation**
+The main motivation is to reduce the traffic jam that occurs in the urban areas which are caused by vehicles searching for parking.
+
 **Features**
 - To keep count of vehicles present in the area
 - It shows ENTER & EXIT status
+
+**Advantages**
+- Enhanced User Experience.
+- Optimized parking.
+- Reduced traffic.
+- Real-Time Data and Trend Insight.
 
 ## **Ultrasonic Detection System**
 Ultrasonic sensors work by sending out a sound wave at a frequency above the range of human hearing. It uses a single transducer to send a pulse and to receive the echo. The transducer of the sensor acts as a microphone to receive and send the ultrasonic sound. The sensor determines the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse.
