@@ -37,6 +37,31 @@ This system is purely a part of automation sector. In this mechanism we can oper
 - It shows ENTER & EXIT status
 
 ## **Ultrasonic Detection System**
+Ultrasonic sensors work by sending out a sound wave at a frequency above the range of human hearing. It uses a single transducer to send a pulse and to receive the echo. The transducer of the sensor acts as a microphone to receive and send the ultrasonic sound. The sensor determines the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse.
+
+**Features**
+### a) HARDWARE :-
+
+**1] SimulIDE:
+      *SimulIDE provides AVR, Arduino and PIC microcontrollers that can be accessed just like other components. 
+      * Features like gpsim and simavr allow you to use PIC and AVR microcontrollers, respectively.
+
+**2] AVR:
+      * An automatic voltage regulator (AVR) is an electronic device that maintains a constant voltage level to electrical equipment on the same load.
+      * The AVR regulates voltage variations to deliver constant, reliable power supply.
+
+### b) SOFTWARE :-
+
+**1] ATmega328:
+      * ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed
+      * Perhaps the most common implementation of this chip is on the popular Arduino development platform.
+      
+**2] Sound:
+      * A sound sensor is defined as a module that detects sound waves through its intensity and converting it to electrical signals.
+      
+**3] Display:
+      * A display device is an output device for presentation of information in visual or tactile form.
+
 
 ## **Billing System**
 
