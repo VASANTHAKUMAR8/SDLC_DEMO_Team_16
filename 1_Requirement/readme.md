@@ -32,6 +32,10 @@ It's a advanced parking management system. This project is divided into 4 differ
 - Ground
 
 
+** Software requirements
+- Proteus (for circuit diagram and simulation)
+- Keil uVision5 IDE (for c code)
+
 
 ## **Parking System**
 This system is purely a part of automation sector. In this mechanism we can operate a parking system without any human surveillance. By using some essential componets we can automate our parking area.
