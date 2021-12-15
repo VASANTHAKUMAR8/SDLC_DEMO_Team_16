@@ -19,7 +19,7 @@ It's a advanced parking management system. This project is divided into 4 differ
 
 ** Hardware Requirements:**
 
-- 80C51 Microcontroller
+- 8051 Microcontroller
 - 4 * 3 Matrix Keypad
 - 16 *2 LCD
 - DC Motor
