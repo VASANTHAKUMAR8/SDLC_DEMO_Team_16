@@ -3,6 +3,7 @@
 It's a advanced parking management system. This project is divided into 4 different parts.
 - Security Door Lock System
 - Parking System
+- Automatic parking light system
 - Ultrasonic Detection System
 - Billing System
 
@@ -44,6 +45,57 @@ The main motivation is to reduce the traffic jam that occurs in the urban areas 
 - Optimized parking.
 - Reduced traffic.
 - Real-Time Data and Trend Insight.
+
+## *Automatic parking light system*
+
+*Motivation*
+This Automatic parking light systeam is very useful in parking places to avoid current wastage by turn on the light when the vehicles are arrived at the destination.
+Generally, in many areas, parking light control is done manually. That means, some person turns on the light at evening time and turns them off in the morning time. However,
+there are few drawbacks to this manual method of controlling the light.  Also if the street lights are not turned off in the morning then it causes electricity wastage. Also if we implement a time-based light controlling system, then it will cause a problem since the  evening start time is different in winter and summer. This project of automatic street light control can be used to overcome all these drawbacks. The lights are turned on at night time because the light intensity is low at night. And the street lights are turned on in the daytime since the light intensity is sufficient in the daytime.
+
+** Hardware Requirements:**
+
+- 8051 Microcontroller
+- Buttons
+- Relays
+- Lamps
+- BJT's
+
+## Features of LDR are as follows:
+
+ 
+-  High reliability.
+-  Light weight.
+-  Wide spectral response.
+-  Wide ambient temperature range.
+
+# State of art/Research
+
+ ![](https://www.projectsof8051.com/project-photos/5126-iot-vehicle-fuel-theft-detection-system-using-arduino-21.jpg)
+ 
+  
+ 
+ # High level requirements
+ 
+ - Along Roads & Highways – High-quality automatic parking  systems used in traffic.
+  
+- Schools & Universities – Automatic parking system is an excellent choice for schools, colleges & universities.
+
+ With plenty of accessible areas, ranging from bus shelters to parking lots institutions can install them throughout the campus.
+ 
+- Avoid accidents.
+ 
+ # Low level requirements
+ 
+ - To study on equipments and tools used and their specifications.
+
+ - To study on the features of microprocessor to more focus in respect of working- This application is implemented using C programing language.
+
+ - Writing the program to control the parking system.
+
+ - Connecting IR sensors and GPIO pins.
+
+ - Power on the system and testing the functionality of it placing some obstacles in front of the IR sensors observing the LED glow.
 
 ## **Ultrasonic Detection System**
 Ultrasonic sensors work by sending out a sound wave at a frequency above the range of human hearing. It uses a single transducer to send a pulse and to receive the echo. The transducer of the sensor acts as a microphone to receive and send the ultrasonic sound. The sensor determines the distance to a target by measuring time lapses between the sending and receiving of the ultrasonic pulse.
