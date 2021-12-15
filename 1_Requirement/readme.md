@@ -8,23 +8,23 @@ It's a advanced parking management system. This project is divided into 4 differ
 
 ## **Security Door Lock System**
 
-# **Introduction:**
+## **Introduction:**
 
 - Nowadays most of the systems are automated in order to face new challenges and present day requirements to achieve good results.
   Automated systems have less manual operations, so that the flexibility, reliabilities are high and accurate.
  
- # **Principle Behind The Circuit:**
+ ## **Principle Behind The Circuit:**
 
 - The main component in the circuit is 8051 controller. In this project 4×3 keypad is used to enter the password. The password which is entered is compared with the predefined     password. If the entered password is correct then the system opens the door by rotating door motor and displays the status of door on LCD. If the password is wrong then door     is remain closed and a sound alarm is triggered and displays “Password is wrong” on LCD.
 
-**Hardware Requirements:**
+** Hardware Requirements:**
 
 - 80C51 Microcontroller
 - 4 * 3 Matrix Keypad
 - 16 *2 LCD
 - DC Motor
 
-**Software requirements**
+** Software requirements**
 - Proteus (for circuit diagram and simulation)
 - Keil uVision5 IDE (for c code)
 
@@ -42,25 +42,25 @@ Ultrasonic sensors work by sending out a sound wave at a frequency above the ran
 **Features**
 ### a) HARDWARE :-
 
-**1] SimulIDE:
-      *SimulIDE provides AVR, Arduino and PIC microcontrollers that can be accessed just like other components. 
-      * Features like gpsim and simavr allow you to use PIC and AVR microcontrollers, respectively.
+**1] SimulIDE:**
+* SimulIDE provides AVR, Arduino and PIC microcontrollers that can be accessed just like other components. 
+* Features like gpsim and simavr allow you to use PIC and AVR microcontrollers, respectively.
 
-**2] AVR:
-      * An automatic voltage regulator (AVR) is an electronic device that maintains a constant voltage level to electrical equipment on the same load.
-      * The AVR regulates voltage variations to deliver constant, reliable power supply.
+**2] AVR:**
+* An automatic voltage regulator (AVR) is an electronic device that maintains a constant voltage level to electrical equipment on the same load.
+* The AVR regulates voltage variations to deliver constant, reliable power supply.
 
 ### b) SOFTWARE :-
 
-**1] ATmega328:
-      * ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed
-      * Perhaps the most common implementation of this chip is on the popular Arduino development platform.
+**1] ATmega328:**
+* ATmega328 is commonly used in many projects and autonomous systems where a simple, low-powered, low-cost micro-controller is needed
+* Perhaps the most common implementation of this chip is on the popular Arduino development platform.
       
-**2] Sound:
-      * A sound sensor is defined as a module that detects sound waves through its intensity and converting it to electrical signals.
+**2] Sound:**
+* A sound sensor is defined as a module that detects sound waves through its intensity and converting it to electrical signals.
       
-**3] Display:
-      * A display device is an output device for presentation of information in visual or tactile form.
+**3] Display:**
+* A display device is an output device for presentation of information in visual or tactile form.
 
 
 ## **Billing System**
