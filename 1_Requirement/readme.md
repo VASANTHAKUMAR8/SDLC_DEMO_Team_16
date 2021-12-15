@@ -17,14 +17,14 @@ It's a advanced parking management system. This project is divided into 4 differ
 
 - The main component in the circuit is 8051 controller. In this project 4×3 keypad is used to enter the password. The password which is entered is compared with the predefined     password. If the entered password is correct then the system opens the door by rotating door motor and displays the status of door on LCD. If the password is wrong then door     is remain closed and a sound alarm is triggered and displays “Password is wrong” on LCD.
 
-** Hardware Requirements:
+** Hardware Requirements:**
 
 - 80C51 Microcontroller
 - 4 * 3 Matrix Keypad
 - 16 *2 LCD
 - DC Motor
 
-** Software requirements
+** Software requirements**
 - Proteus (for circuit diagram and simulation)
 - Keil uVision5 IDE (for c code)
 
